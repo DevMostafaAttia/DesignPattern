@@ -1,0 +1,11 @@
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattren.csprojAssemblyReference.cache
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattren.AssemblyInfoInputs.cache
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattren.AssemblyInfo.cs
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.exe
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.deps.json
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.runtimeconfig.json
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.runtimeconfig.dev.json
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.dll
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\bin\Debug\netcoreapp3.1\FactoryMethodDesignPattren.pdb
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattren.dll
+C:\Users\mattia\source\designPattrensStudy\FactoryMethodDesignPattren\FactoryMethodDesignPattren\obj\Debug\netcoreapp3.1\FactoryMethodDesignPattren.pdb
